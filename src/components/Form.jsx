@@ -11,7 +11,7 @@ const Form = () => {
         city: "",
         state: "",
         code: "",
-        comments: true,
+        comments: false,
         candidate: false,
         offers: false,
         notify: ""
